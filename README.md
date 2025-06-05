@@ -22,12 +22,12 @@
 
 ## Introduction
 
--   Hey there, welcome to **Chatly-CLI** repository. It is a group chatting application over the private network. Easy to setup and easy to use.
+-   Hey there, welcome to **Chat.CLI** repository. It is a group chatting application over the private network. Easy to setup and easy to use.
 -   **"Suggestions are welcome"**, put your suggestions in issue.
 
 ## Prerequisite
 
--   For run **Chatly-CLI** in you system you want to install some softwares.
+-   For run **Chat.CLI** in you system you want to install some softwares.
     -   [Java JDK ](https://www.oracle.com/in/java/technologies/javase-downloads.html "Java JDK")
     -   IDE or Language editor (Download any one if you want to see the code.)
         -   [Sublime Text](https://www.sublimetext.com/ "Sublime Text")
